@@ -11,4 +11,4 @@ You can try this project by one of two ways:
       
       2) Try it online using this link.
       
-      ``google.com``
+      https://mostafaanwar.github.io/ClassicGameArcade/
