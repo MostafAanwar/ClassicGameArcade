@@ -9,6 +9,4 @@ You can try this project by one of two ways:
       1) Clone the repo and launch index.html.
 
       
-      2) Try it online using this link.
-      
-      https://mostafaanwar.github.io/ClassicGameArcade/
+      2) Try it online using this link: https://mostafaanwar.github.io/ClassicGameArcade/
